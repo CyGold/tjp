@@ -9,6 +9,13 @@ img{
  body {
     text-align: center;
 }
+hr{
+    width: 50%;
+
+}
+ol{
+    display: inline-block;
+}
 .button-ref{
     border: none;
     padding: 5% 22%;
